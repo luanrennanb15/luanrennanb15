@@ -6,7 +6,7 @@
 
 ![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=luanrennanb15&show_icons=true&theme=onedark)
 
-## Tecnologias que mais tive contatos
+## Tecnologias que mais tive contatos e estudo
 
 <div style= "display: inline_block"><br/>
     <img alingn="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -21,5 +21,9 @@
 
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanrennanb15&layout=compact)
 
-
-
+## Outras linguagens que estudei e tive contato
+- Python <br/>
+- C <br/>
+- Arduino/C++ <br/>
+- MySql <br/>
+- Java <br/>

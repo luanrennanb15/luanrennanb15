@@ -40,4 +40,10 @@ Sou estudante de ADS - Análise e desenvolvimento de sistemas na Universidade Pa
 
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=luanrennanb15&layout=compact&theme=onedark">
 
-![Snake animation](https://github.com/rafaballerini/luanrennanb15/blob/output/github-contribution-grid-snake.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luanrennanb15/luanrennanb15/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luanrennanb15/luanrennanb15/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luanrennanb15/luanrennanb15/output/github-contribution-grid-snake.svg">
+</picture>
+
+

@@ -35,9 +35,8 @@ Sou estudante de ADS - Análise e desenvolvimento de sistemas na Universidade Pa
     </div><br/>
     
 ## Git status
-
+    
 ![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=luanrennanb15&show_icons=true&theme=onedark)
-
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=luanrennanb15&layout=compact&theme=onedark">
 
 <picture align="center">

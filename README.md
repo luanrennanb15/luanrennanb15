@@ -1,5 +1,5 @@
 ### Olá eu sou o Luan Rennan 😎
--Onde me encontrar
+- Onde me encontrar
 
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/luanrennanpereira?igsh=dmtsaXltMjF2Mmp3&utm_source=qr) 
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/1EBBez7jEM/?mibextid=wwXIfr)
@@ -39,3 +39,5 @@ Sou estudante de ADS - Análise e desenvolvimento de sistemas na Universidade Pa
 ![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=luanrennanb15&show_icons=true&theme=onedark)
 
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=luanrennanb15&layout=compact&theme=onedark">
+
+![Snake animation](https://github.com/rafaballerini/luanrennanb15/blob/output/github-contribution-grid-snake.svg)

@@ -34,10 +34,7 @@ Sou estudante de ADS - Análise e desenvolvimento de sistemas na Universidade Pa
      <img alingn="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     </div><br/>
     
-## Git status
-    
-![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=luanrennanb15&show_icons=true&theme=onedark)
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=luanrennanb15&layout=compact&theme=onedark">
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luanrennanb15/luanrennanb15/output/github-contribution-grid-snake-dark.svg">

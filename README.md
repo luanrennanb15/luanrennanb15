@@ -7,7 +7,7 @@
 
 ## Oque eu faço
 
-Sou estudante de ADS - Análise e desenvolvimento de sistemas na Universidade Paulista - UNIP 
+Sou estudante de ADS - Análise e desenvolvimento de sistemas na Universidade Paulista - UNIP 4° semestre
 <br/>
 
 ## Tecnologias que mais tive contatos e estudo atualmente

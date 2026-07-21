@@ -33,6 +33,8 @@ Sou estudante de ADS - Análise e desenvolvimento de sistemas na Universidade Pa
       <img alingn="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
      <img alingn="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     </div><br/>
+    <img src="https://github-stats-extended.vercel.app/api?username=luanrennanb15&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://streak-stats.demolab.com/?user=luanrennanb15&theme=tokyonight&hide_border=true" width="48%" />
     
 
 
